@@ -1,0 +1,12 @@
+langchain
+langchain-community
+PyPDF2
+python-dotenv
+faiss-cpu
+typing
+pydantic
+google-generativeai
+langchain_google_genai
+fastapi==0.100.0
+hypercorn==0.14.4
+python-multipart
